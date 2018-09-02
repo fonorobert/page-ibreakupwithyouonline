@@ -6,7 +6,8 @@ var reasons = [
 	"I'm just so busy with work right now.",
 	"I don't think we're a good match.",
 	"I'm just not feeling it.",
-	"You deserve someone better."
+	"You deserve someone better.",
+	"My dog needs all my love and attention now."
 ]
 
 document.addEventListener("DOMContentLoaded", function(event) {
