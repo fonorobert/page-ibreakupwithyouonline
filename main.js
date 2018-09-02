@@ -10,7 +10,10 @@ var reasons = [
 	"My dog needs all my love and attention now.",
 	"You're too good for me.",
 	"I'm still getting over my ex.",
-	"I'm fully devoted to my digital nomad lifestyle."
+	"I'm just too devoted to my digital nomad lifestyle.",
+	"It's not you, it's me.",
+	"I can't give you what you're looking for.",
+	"I just need some space."
 ]
 
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -21,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 	element.innerHTML = reason;
 
-	console.log(reasons);
 
 });
 
